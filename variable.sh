@@ -14,7 +14,7 @@ Number=21
 
 floatNumber=199.99
 
-Name=Aboud
+Name=Bash
 
 #to print a variable you can use echo and $ sin to assign the variable value.
 
@@ -32,7 +32,7 @@ echo $number $Number $Name $floatNumber
 #sentence best practices use quotes it is better
 echo "\n"
 
-LongString="Aboud is learning shell script programming"
+LongString="BASH is learning shell script programming"
 
 echo $LongString
 
